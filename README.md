@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soltansam
 - 👀 I’m interested in java, spring and angular
 - 🌱 I’m currently learning javaee
-- 💞️ I’m looking to collaborate on enterprise web application
+- 💞️ I’m looking to collaborate on enterprise web applications.
 - 📫 How to reach me here or at sam@javaheap.net
 
 <!---
