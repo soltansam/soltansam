@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @soltansam
-- 👀 I’m interested in java, spring and angular
-- 🌱 I’m currently learning javaee
-- 💞️ I’m looking to collaborate on enterprise web applications.
-- 📫 How to reach me here or at sam@javaheap.net
+- 👀 I’m interested in python and its fantastic libraries.
+- 🌱 I’m currently learning python
+- 💞️ I’m eager to build interesting applications.
+- 📫 How to reach me here.
 
 <!---
 soltansam/soltansam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
